@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ChieryBusiness2Lib"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "ChieryBusiness2Lib 静态库"
 
   s.description  = <<-DESC

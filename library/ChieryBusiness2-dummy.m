@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_ChieryBusiness1 : NSObject
+@interface PodsDummy_ChieryBusiness2 : NSObject
 @end
-@implementation PodsDummy_ChieryBusiness1
+@implementation PodsDummy_ChieryBusiness2
 @end
